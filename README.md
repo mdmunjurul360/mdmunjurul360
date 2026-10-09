@@ -21,6 +21,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmunjurul360)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/munjurul360)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MUNJURULTECH360)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/munjurul360) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/munjurul_360)
 
 ---
 
@@ -37,11 +39,11 @@
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| **[aru-ai-assistant](https://github.com/mdmunjurul360/aru-ai-assistant)** | Personal Telegram AI assistant with memory and automation | Python · Telethon · Groq · SQLite |
-| **[Rice-Leaf-Disease-Detection](https://github.com/mdmunjurul360/Rice-Leaf-Disease-Detection)** | ML-assisted rice leaf disease detection (academic / portfolio) | TypeScript · React · Python · ML |
+| **[aru-ai-assistant](https://github.com/mdmunjurul360/aru-ai-assistant)** | Personal AI assistant with long-term memory, task management, scheduling, and automation. | Python · Telethon · Groq · SQLite |
+| **[Rice-Leaf-Disease-Detection](https://github.com/mdmunjurul360/Rice-Leaf-Disease-Detection)** | Academic thesis project for ML-assisted rice leaf disease detection (academic / portfolio) | TypeScript · React · Python · ML |
 | **[tradecore-portal](https://github.com/mdmunjurul360/tradecore-portal)** | Full-stack trading portal concept | Next.js · NestJS · Prisma · PostgreSQL |
-| **[focusflow-dashboard](https://github.com/mdmunjurul360/focusflow-dashboard)** | Productivity dashboard with auth & feedback flows | React · Vite · Supabase · Express |
-| **[social-user-admin-hub](https://github.com/mdmunjurul360/social-user-admin-hub)** | Social feed + admin dashboard (learning project) | React · TypeScript · Firebase |
+| **[focusflow-dashboard](https://github.com/mdmunjurul360/focusflow-dashboard)** | Modern productivity dashboard with authentication, feedback system, and clean UI architecture. | React · Vite · Supabase · Express |
+| **[social-user-admin-hub](https://github.com/mdmunjurul360/social-user-admin-hub)** | Social platform prototype with role-based admin dashboard built using Firebase. (learning project) | React · TypeScript · Firebase |
 | **[Face-Recognition-login-system](https://github.com/mdmunjurul360/Face-Recognition-login-system)** | Educational face login demo (not for production auth) | Node.js · Express · Face++ API |
 
 > Some projects are **learning / educational**. I’m focused on honest scope and continuous improvement.
