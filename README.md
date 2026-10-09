@@ -1,5 +1,16 @@
 # 💫 About Me:
-# Hi, I'm Munjurul 👋<br><br>🚀 Software Engineer | Full Stack Developer  <br>🤖 AI Enthusiast & Creative Technologist  <br>🎬 Content Creator focused on useful digital experiences  <br>💡 Building modern web applications and exploring emerging technologies
+# # Hi, I'm MD Munjurul Islam 👋
+
+🚀 Software Engineer & Full Stack Developer
+
+🤖 Building AI-powered automation tools and modern web applications.
+
+💡 Interested in AI Agents, Backend Systems, Cloud, DevOps, and Productivity Automation.
+
+🎯 Currently building:
+- Aru AI (Personal AI Assistant)
+- Automation Tools
+- AI-powered Productivity Systems
 
 
 ## 🌐 Socials:
