@@ -1,8 +1,15 @@
-# Hi, I'm Munjurul 👋
+# Hi, I'm MD Munjurul Islam 👋
 
-Full-stack developer in training from **Dhaka, Bangladesh**.  
-I build web apps, experiment with AI tools, and learn by shipping real projects.  
-Focused on clean UI, practical backend, and continuous improvement.
+🚀 Software Engineer & Full Stack Developer
+
+🤖 Building AI-powered automation tools and modern web applications.
+
+💡 Interested in AI Agents, Backend Systems, Cloud, DevOps, and Productivity Automation.
+
+🎯 Currently building:
+- Aru AI (Personal AI Assistant)
+- Automation Tools
+- AI-powered Productivity Systems
 
 ---
 
